@@ -45,3 +45,8 @@ src/
 ├── store/          # Redux store + cartSlice
 └── App.jsx
 
+## Screenshots
+<img width="1892" height="997" alt="image" src="https://github.com/user-attachments/assets/6fe78d4a-1263-4946-b7c5-5f172845c0f2" />
+
+
+
